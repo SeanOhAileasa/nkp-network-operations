@@ -29,7 +29,11 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 - [Process Monitoring](https://nbviewer.org/github/SeanOhAileasa/nkp-network-operations/blob/main/rc/network-monitoring/nkp-process-monitoring.ipynb) <br/>
 - [Event Management](https://nbviewer.org/github/SeanOhAileasa/nkp-network-operations/blob/main/rc/network-monitoring/nkp-event-management.ipynb) <br/>
-- [Performance Metrics](https://nbviewer.org/github/SeanOhAileasa/nkp-network-operations/blob/main/rc/network-monitoring/nkp-performance-metrics.ipynb) <br/>
+- [Performance Metrics](https://nbviewer.org/github/SeanOhAileasa/nkp-network-operations/blob/main/rc/remote-access/nkp-performance-metrics.ipynb) <br/>
+
+##### ``Remote Access``
+
+- [Remote Access](https://nbviewer.org/github/SeanOhAileasa/nkp-network-operations/blob/main/rc/network-monitoring/nkp-remote-access.ipynb) <br/>
 
 ## Credits
 

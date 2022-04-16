@@ -33,7 +33,11 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Remote Access``
 
-- [Remote Access](https://nbviewer.org/github/SeanOhAileasa/nkp-network-operations/blob/main/rc/network-monitoring/nkp-remote-access.ipynb) <br/>
+- [Remote Access](https://nbviewer.org/github/SeanOhAileasa/nkp-network-operations/blob/main/rc/remote-access/nkp-remote-access.ipynb) <br/>
+
+##### ``Best Practices``
+
+- [Best Practices](https://nbviewer.org/github/SeanOhAileasa/nkp-network-operations/blob/main/rc/best-practices/nkp-policies-and-best-practices.ipynb) <br/>
 
 ## Credits
 
